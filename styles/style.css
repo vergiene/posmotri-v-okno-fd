@@ -93,7 +93,6 @@ ol {
 
 .content__video-card {
   display: flex;
-  justify-content: space-around;
   align-items: flex-start;
 }
 
